@@ -1,0 +1,54 @@
+h1 {
+    font-family: "Georgia", serif;
+    font-size: 36px;
+}
+
+h2 {
+    font-family: "Arial", sans-serif;
+    font-size: 24px;
+}
+
+p {
+    font-family: "Verdana" sans-serif;
+    font-size: 12px;
+}
+
+nav {
+    background-color: black;
+    text-align:left;
+    padding: 10px;
+    width: 900px;
+     
+}
+
+a#navtitle {
+    font-size: 2rem;
+    color: #EE4B2B;
+    font-family: "Arial" sans-serif;
+    font-weight: 700;
+    text-decoration: none;  
+}
+
+img {
+    width: 100%;
+}
+
+#container {
+    width: 920px;
+    margin: 0 auto;
+}
+
+#Byline {
+    font-family: "Verdana" sans-serif;
+    font-size: 14px;
+    font-style:italic;
+    color: gray;
+}
+
+blockquote {
+    color: red;
+    font-weight: bold;
+    font-family: "Arial", sans-serif;
+
+
+}
